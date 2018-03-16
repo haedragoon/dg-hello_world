@@ -1,0 +1,6 @@
+{
+    "python.linting.pylintEnabled": true,
+    "python.linting.flake8Enabled": false,
+    "python.linting.enabled": true,
+    "python.pythonPath": "/home/kvd/.local/share/virtualenvs/helloworld-J1QAU31O/bin/python"
+}
